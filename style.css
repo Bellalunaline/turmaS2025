@@ -1,7 +1,7 @@
 body{
     background-color: black;
     color: bisque;
-    margin: 0px;
+    margin: 20px;
 }
 
 header{
@@ -11,22 +11,17 @@ header{
     color: rgb(153, 58, 231);
 }
 h1{
- border-bottom: double 4px rgb(153, 58, 231);
-    padding: 25px;
-    font-size: 30px;
-    color: rgb(58, 182, 231);
-
-}
-h1{
     font-size: 30px;
 }
 
 p{
     font-size: 20px;
 }
+
 section{
     background-color: rgb(145, 6, 115);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
+    justify-content: center;
 }
