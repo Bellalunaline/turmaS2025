@@ -1,6 +1,7 @@
 body{
     background-color: black;
     color: bisque;
+    font-family: "Edu VIC WA NT Hand Pre", sans-serif;
     margin: 20px;
 }
 
@@ -24,4 +25,7 @@ section{
     padding-top: 80px;
     display: flex;
     justify-content: center;
+}
+.chamada-texto{
+    margin-right: 5%;
 }
